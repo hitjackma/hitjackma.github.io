@@ -6,5 +6,8 @@
   },
   "theme": {
     "name": "Casper"
+  },
+  "Disqus":{
+    "Shortname": "hitjackma"
   }
 }
