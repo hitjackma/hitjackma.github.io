@@ -4,7 +4,14 @@
     "repositoryName": "hitjackma.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "麻花随想",
+    "description": "虽然我懒，但我拖延呀",
+    "logo": "https://photos.google.com/photo/AF1QipOa07aiE1WbBaCDuyM00dYKXScKm-fEkZoewLr0",
+    "disqus": "hitjackma"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
