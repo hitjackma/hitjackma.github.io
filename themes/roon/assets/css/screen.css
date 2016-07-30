@@ -1609,10 +1609,10 @@ body.touch.user article .readmore {
         height: 43px
     }
     #blog_badge span {
-        top: 9px;
-        right: 9px;
-        bottom: 9px;
-        left: 9px;
+        top: 1px;
+        right: 1px;
+        bottom: 1px;
+        left: 1px;
     }
     html[dir=rtl] #blog_badge span {
         margin-left: 0;
