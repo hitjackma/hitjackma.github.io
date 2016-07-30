@@ -803,11 +803,11 @@ body.user article .image-holder {
     margin: 0 auto 30px auto;
     overflow: hidden;
     max-width: 680px;
-    -webkit-border-radius: 3px;
-    -moz-border-radius: 3px;
-    -ms-border-radius: 3px;
-    -o-border-radius: 3px;
-    border-radius: 3px
+    -webkit-border-radius: 1px;
+    -moz-border-radius: 1px;
+    -ms-border-radius: 1px;
+    -o-border-radius: 1px;
+    border-radius: 1px
 }
 body.user article .image-holder .inner {
     display: block;
