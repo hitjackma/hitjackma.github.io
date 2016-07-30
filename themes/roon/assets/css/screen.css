@@ -1077,7 +1077,7 @@ body>footer div.vcard span.given-name, body>footer div.vcard span.family-name, .
 }
 body>footer .photo, .post-footer .photo {
     float: left;
-    margin-right: 22px;
+    margin-right: 12px;
 
     height: 80px;
     width: 80px;
