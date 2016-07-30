@@ -7,7 +7,7 @@
   "site": {
     "title": "麻花随想",
     "description": "虽然我懒，但我拖延呀",
-    "logo": "https://github.com/hitjackma/hitjackma.github.io/blob/master/images/768.png?raw=true",
+    "logo": "https://raw.githubusercontent.com/hitjackma/hitjackma.github.io/master/favicon.ico",
     "cover": "https://github.com/hitjackma/hitjackma.github.io/blob/master/images/2b03b0c4-85f7-4c28-9c60-1c7af2a62fa8_5.jpg?raw=true",
     "postsPerPage": "10",
     "disqus": "hitjackma"
