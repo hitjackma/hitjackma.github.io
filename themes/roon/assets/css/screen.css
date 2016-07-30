@@ -1185,10 +1185,10 @@ body>footer #user_bio .inner, .post-footer #user_bio .inner {
     background-position: center center;
     background-repeat: no-repeat;
     position: absolute;
-    top: 12px;
-    right: 12px;
-    bottom: 12px;
-    left: 12px;
+    top: 2px;
+    right: 2px;
+    bottom: 2px;
+    left: 2px;
 
 }
 body.user #blog_badge {
