@@ -1106,7 +1106,7 @@ body>footer .photo.circle, .post-footer .photo.circle {
     -moz-border-radius: 50px;
     -ms-border-radius: 50px;
     -o-border-radius: 50px;
-    border-radius: 40px;
+    border-radius: 50px;
     border: 1px solid rgba(33, 39, 45, 0.17);
 }
 body>footer .photo.circle span, .post-footer .photo.circle span {
