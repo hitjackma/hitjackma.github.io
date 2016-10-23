@@ -1,0 +1,9 @@
+= 证明：质数是无穷的
+:hp-alt-title: why prime numbers are countless
+
+反证法：假设质数是有穷的，假设所有质数有 n 个，分别为
+[latex]
+$x_1$, 
+
+[latex]
+$y = \int_0^\infty \gamma^2 \cos(x) dx$
